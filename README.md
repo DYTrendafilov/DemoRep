@@ -1,2 +1,2 @@
 # DemoRep
-One More repository for test
+Firs Repository for tests for my education in SoftUni Fundamentals - Java
